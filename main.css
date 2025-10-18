@@ -1,0 +1,173 @@
+.collapse navbar-collapse {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: 15px;
+    padding: 15px;
+}
+
+.navbar-brand {
+     display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: 15px;
+    padding: 15px;
+}
+
+.nav-link active {
+     display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: 15px;
+    padding: 15px;
+} 
+
+.nav-link {
+     display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: 15px;
+    padding: 15px;
+}
+
+.fa-brands fa-linkedin-in {
+      display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: 15px;
+    padding: 15px;
+}
+
+.fa-brands fa-behance {
+      display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: 15px;
+    padding: 15px;
+}
+
+.fa-brands fa-twitter {
+      display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: 15px;
+    padding: 15px;
+}
+
+.container2 {
+margin: 55px;
+padding: 55px;
+display: flex;
+flex-wrap: wrap;
+width: 45%;
+
+
+}
+
+.box {
+    border-radius: 50%;
+    margin: 60px;
+    padding: 60px;
+    margin-left: 900px;
+    display: flex;
+    align-items: end;
+    text-align: end;
+    margin-top: -300px;
+    margin-right: -50px;
+}
+
+.button {
+    background-color: green;
+    color: white;
+}
+
+.rasm {
+    margin-top: 250px;
+    width: 250px;
+    height: 500px;
+    margin-left: 900px;
+    top: -100px;
+}
+
+.matn {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 55px;
+    padding: 55px;
+    width: 45%;
+    margin-top: -400px;
+}
+
+.container3 {
+    width: 100%;
+    height: 100%;
+}
+
+.tugma {
+margin: 100px;
+margin-top: -100px;
+color: white;
+background-color: green;
+}
+
+.rasm2 {
+    margin-top: 260px;
+    height: 75%;
+}
+
+.matn2 {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 55px; 
+    padding: 55px;
+    margin-top: -300px;
+    width: 45%;
+    margin-left: 700px;
+}
+
+.tugma2 {
+    color: white;
+    background-color: green;
+    margin: 100px;
+    margin-left: 900px;
+    width: 150px;
+    height: 50px;
+    margin-top: -800px;
+}
+.matn3 {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 55px;
+    padding: 55px;
+    margin-top: -200px;
+    width: 45%;
+    margin-left: 650px;
+}
+
+.tugma3 {
+    color: white;
+    background-color: green;
+    margin: 100px;
+    margin-left: 850px;
+    width: 150px;
+    height: 50px;
+    margin-top: -700px;
+}
+
+.footer {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 5px;
+    padding: 5px;
+}
+
+.fa-brands fa-telegram {
+    margin-left: 50px;
+}
